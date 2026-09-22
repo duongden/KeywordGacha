@@ -6,6 +6,9 @@
 &ensp;
 &ensp;
 
+## 公告 📢
+- [LinguaGacha](https://github.com/neavo/LinguaGacha) 现已提供更强大全自动的 `术语` 生成能力
+- 建议直接使用 LG 一次性完成 `术语` + `翻译` + `审校` 的全自动流程
 
 ## 概述 📢
 - [KeywordGacha](https://github.com/neavo/KeywordGacha)，简称 KG，使用 AI 技术来自动生成 `术语表` 的次世代工具
